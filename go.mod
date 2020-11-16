@@ -1,4 +1,4 @@
-module cloudml_adapter
+module github.com/woainizhongguo/cloudml_apapter
 
 go 1.15
 
