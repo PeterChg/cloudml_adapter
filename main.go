@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/woainizhongguo/cloudml_adapter/pkg/cloudml_gpu_adapter"
 	"fmt"
-	_ "github.com/woainizhongguo/cloudml_apaptercloudml_adapter/pkg/cloudml_gpu_adapter"
+	_ "github.com/woainizhongguo/cloudml_adapter/pkg/cloudml_gpu_adapter"
 )
 
 var d = cloudml_gpu_adapter.GetGpuResourceSock()

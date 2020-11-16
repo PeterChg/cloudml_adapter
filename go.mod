@@ -1,4 +1,4 @@
-module github.com/woainizhongguo/cloudml_apapter
+module github.com/woainizhongguo/cloudml_adapter
 
 go 1.15
 
@@ -7,4 +7,5 @@ require (
 	k8s.io/apimachinery v0.18.0
 	k8s.io/client-go v0.18.0
 	k8s.io/utils v0.0.0-20201110183641-67b214c5f920 // indirect
+
 )
